@@ -1,6 +1,1 @@
-{
-    "name"              : "Einthusan",
-    "plugin"            : "plugin.video.einthusan",
-    "is_resolvable"     : "true",
-    "search_movie"      : "plugin://plugin.video.einthusan/search/?q={name_url}&search_type=notvalid"
-}
+
